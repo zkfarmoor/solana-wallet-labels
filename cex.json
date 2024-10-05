@@ -1,0 +1,400 @@
+{
+  "accounts": [
+    {
+      "ownerAddress": "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm",
+      "name": "Coinbase Exchange 1",
+      "logoUrl": "https://pbs.twimg.com/profile_images/1484586799921909764/A9yYenz3_400x400.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Coinbase",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "3ADzk5YDP9sgorvPSs9YPxigJiSqhgddpwHwwPwmEFib",
+      "name": "Binance Deposit Wallet",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Binance",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "3vxheE5C46XzK4XftziRhwAf8QAfipD7HXXWj25mgkom",
+      "name": "Coinbase Custody",
+      "logoUrl": "https://pbs.twimg.com/profile_images/1484586799921909764/A9yYenz3_400x400.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Coinbase",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "3yFwqXBfZY4jBVUafQ1YEXw189y2dN3V5KQq9uzBDy1E",
+      "name": "Binance Cold Wallet",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Binance",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "435eCQn4AqX2nDHLWdkfaXxJC6y8cHuhSv8VF3cTp52S",
+      "name": "Coinsquare",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL6PWsHeuGAfYgC8f9PvuXLAoJXALYOo7TOkfSufbKy6oumYAoTIrksG7ft4D7JMi8MjQ&usqp=CAU",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Coinsquare",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "5PAhQiYdLBd6SVdjzBQDxUAEFyDdF5ExNPQfcscnPRj5",
+      "name": "MEXC Exchange",
+      "logoUrl": "https://theblockchainarbitration.com/wp-content/uploads/2022/03/724aa2800dc391a7383e505a9e7e2e80-2.jpeg",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "MEXC",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "5VCwKtCXgCJ6kit5FybXjvriW3xELsFDhYrPSqtJNmcD",
+      "name": "OKX",
+      "logoUrl": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/294.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "OKX",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+      "name": "Binance Exchange 2",
+      "logoUrl": "https://pbs.twimg.com/profile_images/1554028535429332993/51K2Wk8j_400x400.jpg",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Binance",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "6FEVkH17P9y8Q9aCkDdPcMDjvj7SVxrTETaYEm8f51Jy",
+      "name": "Crypto.com 1",
+      "logoUrl": "https://pbs.twimg.com/profile_images/1480727876517253123/lt1gKNp9_400x400.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Crypto.com",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "6ZRCB7AAqGre6c72PRz3MHLC73VMYvJ8bi9KHf1HFpNk",
+      "name": "FTX Exchange",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/7/73/FTX_%28Icon%29.svg/",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "FTX",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "6brjeZNfSpqjWoo16z1YbywKguAruXZhNz9bJMVZE8pD",
+      "name": "Robinhood Controller Wallet",
+      "logoUrl": "https://www.svgrepo.com/show/331562/robinhood.svg",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Robinhood",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "6wEMcwrcF5AP9jpHWQcPxHXciWA2g217Qq81CTWjbgBw",
+      "name": "FTX Cold Storage #3",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/7/73/FTX_%28Icon%29.svg/",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "FTX",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "7Fo188kXf52Jk5cFSYDXWtQc6W8Btbk396QABUWsbQGo",
+      "name": "Coinbase Exchange 4",
+      "logoUrl": "https://pbs.twimg.com/profile_images/1484586799921909764/A9yYenz3_400x400.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Coinbase",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "88xTWZMeKfiTgbfEmPLdsUCQcZinwUfk25EBQZ21XMAZ",
+      "name": "Huobi Exchange",
+      "logoUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yZTg3Nzk3ZjE4YzViNWMzOTRjMmUzMDRmY2U0OGQ5MC5wbmc=.jpg",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Huobi",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "8Tp9fFkZ2KcRBLYDTUNXo98Ez6ojGb6MZEPXfGDdeBzG",
+      "name": "Robinhood Cold Wallet",
+      "logoUrl": "https://www.svgrepo.com/show/331562/robinhood.svg",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Robinhood",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "9FtGm6hJULCpA8An4sFg5ysHUExDZBtMeDCxsYnTnWh5",
+      "name": "Robinhood Deep Freeze Wallet",
+      "logoUrl": "https://www.svgrepo.com/show/331562/robinhood.svg",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Robinhood",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
+      "name": "Binance Exchange 1",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Binance_Logo.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Binance",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "9un5wqE3q4oCjyrDkwsdD48KteCJitQX5978Vh7KKxHo",
+      "name": "OKX",
+      "logoUrl": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/294.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "OKX",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "AC5RDfQFmDS1deWZos921JfqscXdByf8BKHs5ACWjtW2",
+      "name": "Bybit Exchange",
+      "logoUrl": "https://play-lh.googleusercontent.com/d1dSd2dd9VgBE1U5o6SwP2GZHuXtDh1fydN-UUtu_jHcG0N5ApsD4KPdlyoneWrrmn1A",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Bybit",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+      "name": "MEXC Exchange",
+      "logoUrl": "https://theblockchainarbitration.com/wp-content/uploads/2022/03/724aa2800dc391a7383e505a9e7e2e80-2.jpeg",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "MEXC",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "AeBwztwXScyNNuQCEdhS54wttRQrw3Nj1UtqddzB4C7b",
+      "name": "Robinhood Outbound Wallet",
+      "logoUrl": "https://www.svgrepo.com/show/331562/robinhood.svg",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Robinhood",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "AobVSwdW9BbpMdJvTqeCN4hPAmh4rHm7vwLnQ5ATSyrS",
+      "name": "Crypto.com 2",
+      "logoUrl": "https://pbs.twimg.com/profile_images/1480727876517253123/lt1gKNp9_400x400.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Crypto.com",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6",
+      "name": "Kucoin Exchange Wallet",
+      "logoUrl": "https://assets.staticimg.com/cms/media/3gfl2DgVUqjJ8FnkC7QxhvPmXmPgpt42FrAqklVMr.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Kucoin",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "Ca469SFVWhHLfVGqTqRde2eJEHAha94d2ZFaVxxhkhPZ",
+      "name": "Coinbase Deposits Wallet",
+      "logoUrl": "https://pbs.twimg.com/profile_images/1484586799921909764/A9yYenz3_400x400.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Coinbase",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "CdkLi5GK8kGTNmHCTe1dem2dXxgU2V2Yxh5s4xPuk9UY",
+      "name": "Robinhood Inbound Wallet",
+      "logoUrl": "https://www.svgrepo.com/show/331562/robinhood.svg",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Robinhood",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "FWznbcNXWQuHTawe9RxvQ2LdCENssh12dsznf4RiouN5",
+      "name": "Kraken Exchange",
+      "logoUrl": "https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Kraken",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "FgqwmiMjn85icvk77bPMscFDKhsMMY7ZrWP6732zejwb",
+      "name": "Newton Crypto Exchange",
+      "logoUrl": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/qsfa1fhtxrnvb4qii3qx",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Newton",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "FxteHmLwG9nk1eL4pjNve3Eub2goGkkz6g6TbvdmW46a",
+      "name": "Bitfinex Exchange Hot Wallet",
+      "logoUrl": "https://www.bitfinex.com/images/thumbnails/bitfinex-2.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Bitfinex",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "GJRs4FwHtemZ5ZE9x3FNvJ8TMwitKTh21yxdRPqn7npE",
+      "name": "Coinbase Exchange 2",
+      "logoUrl": "https://pbs.twimg.com/profile_images/1484586799921909764/A9yYenz3_400x400.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Coinbase",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS",
+      "name": "Coinbase Exchange 3",
+      "logoUrl": "https://pbs.twimg.com/profile_images/1484586799921909764/A9yYenz3_400x400.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Coinbase",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "HVh6wHNBAsG3pq1Bj5oCzRjoWKVogEDHwUHkRz3ekFgt",
+      "name": "Kucoin Main Wallet",
+      "logoUrl": "https://assets.staticimg.com/cms/media/3gfl2DgVUqjJ8FnkC7QxhvPmXmPgpt42FrAqklVMr.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Kucoin",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "HiRpdAZifEsZGdzQ5Xo5wcnaH3D2Jj9SoNsUzcYNK78J",
+      "name": "Gate.io Exchange 1",
+      "logoUrl": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_42bc6382ea1a57dd957fbc0da96e666d/gate-io.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Gate.io",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    },
+    {
+      "ownerAddress": "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w",
+      "name": "Gate.io Exchange 2",
+      "logoUrl": "https://www.gate.io/images/gate.io_logo.png",
+      "labels": [
+        "CEX"
+      ],
+      "entity": "Gate.io",
+      "entityId": null,
+      "twitterUrl": null,
+      "dateAdded": "2024-02-08T21:39:52Z"
+    }
+  ]
+}
